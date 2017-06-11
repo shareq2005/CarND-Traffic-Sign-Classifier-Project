@@ -1,7 +1,5 @@
 # Traffic Sign Recognition
 
----
-
 **Build a Traffic Sign Recognition Project**
 
 The goal of this project is to apply deep learning techniques using TensorFlow to build a german traffic sign classifier. A convolutional neural network was built, and then trained with a data-set consisting of a large number of traffic sign images. After that, some new images were downloaded from the net to see how well the classifier predicts the new images.
