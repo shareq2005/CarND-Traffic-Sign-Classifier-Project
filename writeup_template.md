@@ -32,7 +32,7 @@ These are the bar charts of the training, validation & testing sets. The plot is
 * Index 12 = Priority road
 
 ---
-##Design and Test a Model Architecture
+## Design and Test a Model Architecture
 
 ### Preprocessing the dataset
 Each of the traffic signs were preprocessed by converting to grayscale, and then normalizing the pixel values. 
